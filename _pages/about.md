@@ -14,3 +14,7 @@ Education
 ======
 * Bachelor in Electronic Engineering, Tsinghua University, Beijing 2023
 * Ph.D in Tsinghua University, Beijing (current)
+
+Awards
+======
+* National Scholarship, 2022
