@@ -24,4 +24,4 @@ Awards
 
 Publications
 ======
-* Zhou T*, Jiang Y*, Xu Z, et al. Hundred-layer photonic deep learning[J]. Nature Communications, 2025, 16(1): 10382.
+* Zhou T†, Jiang Y†, Xu Z, et al. Hundred-layer photonic deep learning[J]. Nature Communications, 2025, 16(1): 10382.
