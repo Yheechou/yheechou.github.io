@@ -1,4 +1,4 @@
-<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/bc5bb20f-2527-49a7-95a3-c45493134bd5" />---
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -24,4 +24,4 @@ Awards
 
 Publications
 ======
-* Zhou T, Jiang Y, Xu Z, et al. Hundred-layer photonic deep learning[J]. Nature Communications, 2025, 16(1): 10382.
+* Zhou T*, Jiang Y*, Xu Z, et al. Hundred-layer photonic deep learning[J]. Nature Communications, 2025, 16(1): 10382.
