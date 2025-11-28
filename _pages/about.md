@@ -21,3 +21,7 @@ Awards
 * National Scholarship, 2022
 * Outstanding Graduates from Beijing, 2023
 * Outstanding Graduation Thesis from Tsinghua University, 2023
+
+Publications
+======
+* Zhou T<sup>*</sup>, Jiang Y<sup>*</sup>, Xu Z, et al. Hundred-layer photonic deep learning[J]. Nature Communications, 2025, 16(1): 10382.
